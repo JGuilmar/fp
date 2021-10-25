@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Call of duty Black Ops",
+    "description": "Es un videojuego de disparos en primera persona de estilo bélico fue desarrollado por Treyarch y distribuido por Activision. Es el séptimo título de la serie Call of Duty y el tercer título de la serie desarrollado por Treyarch, siendo la secuela directa de su anterior título, Call of Duty: World at War.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/cod.jpg"
+  },
+  
+  {
+    "name": "BattleField 2042",
+    "description": "Es un videojuego de disparos y acción bélica en primera persona, desarrollado por DICE y distribuido por Electronic Arts. El videojuego será lanzado el 19 de noviembre del 2021 en las plataformas PlayStation 4,PlayStation 5, Xbox One, Xbox Series X y Series S, y Windows. Es el décimo cuarto juego de la saga Battlefield, y está ambientado en el año 2042.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/bf.jpg"
+  },
+  
+  {
+    "name": "The Last of Us 2",
+    "description": "Es un juego de acción y aventuras de 2020 desarrollado por Naughty Dog y publicado por Sony Interactive Entertainment para PlayStation 4.1​ Ambientado cinco años después de The Last of Us (2013), el juego se centra en dos personajes jugables en un Estados Unidos post-apocalíptico cuyas vidas se entrelazan: Ellie, busca venganza después de sufrir una tragedia, y Abby, una soldado que se ve envuelta en un conflicto entre su milicia y un culto religioso. El juego se juega desde la perspectiva de la tercera persona y le permite al jugador luchar contra enemigos humanos y criaturas caníbales parecidas a zombis con armas de fuego, armas improvisadas y sigilo.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/tlou.jpg"
+  },
+  
+  {
+    "name": "Far Cry 6",
+    "description": "Es un videojuego de disparos en primera persona desarrollado por Ubisoft Toronto y publicado por Ubisoft. Es la sexta entrega principal de la serie Far Cry, fue lanzado el 7 de octubre del 2021 para las plataformas de Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Google Stadia y NVIDIA GeForce NOW.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/farcry.jpg"
+  },
+
+  {
+    "name": "Half Life Alyx",
+    "description": "Es un videojuego perteneciente al género de disparos en primera persona en realidad virtual (VR) desarrollado y publicado por Valve Corporation. Es el primer videojuego de la serie Half-Life desde el lanzamiento de Half-Life 2: Episode Two en 2007, y tiene lugar entre los eventos de Half-Life y Half-Life 2. La historia sigue a Alyx Vance, quien aparece como personaje jugador por primera vez, y su padre Eli en su lucha contra una ocupación de la Tierra por la Alianza.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/halflife.png"
+  }
+]
