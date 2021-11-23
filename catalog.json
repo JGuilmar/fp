@@ -28,4 +28,28 @@
     "description": "Es un videojuego perteneciente al género de disparos en primera persona en realidad virtual (VR) desarrollado y publicado por Valve Corporation. Es el primer videojuego de la serie Half-Life desde el lanzamiento de Half-Life 2: Episode Two en 2007, y tiene lugar entre los eventos de Half-Life y Half-Life 2. La historia sigue a Alyx Vance, quien aparece como personaje jugador por primera vez, y su padre Eli en su lucha contra una ocupación de la Tierra por la Alianza.",
     "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/halflife.png"
   }
+  
+  {
+    "name": "Resident Evil Village", 
+    "description": "Es un videojuego perteneciente al género de horror de supervivencia desarrollado y publicado por Capcom. la novena entrega de la serie principal de Resident Evil y secuela narrativa de Resident Evil 7: Biohazard del año 2017,1​ el videojuego sigue a Ethan Winters, quien, después de un fatídico encuentro con Chris Redfield, se encuentra en un pueblo lleno de criaturas mutantes en un esfuerzo por encontrar a su hija secuestrada. Si bien Village mantiene los elementos fundamentales de terror de supervivencia de la serie, el videojuego adopta un estilo de videojuego más orientado a la acción en comparación con su predecesor.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/R_evil8.jpg"
+  }
+
+  {
+    "name": "Halo Infinite",
+    "description": "Es un videojuego de disparos en primera persona próximo a estrenarse de la franquicia de videojuegos de ciencia ficción creada por Bungie Studios y actualmente desarrollada por 343 Industries. El juego es secuela de la historia de Halo 5: Guardians y Halo Wars 2 pero catalogado por 343 industries como un reinicio espiritual para la saga Halo, se sabe que será un juego con inspiración de mundo abierto recordando a Halo CE que tenía un factor de exploración pero que en secuelas se fue volviendo mas lineal.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/halo_infinite.jpg"
+  }
+
+  {
+    "name": "Metro Exodus",
+    "description": "Es un videojuego de acción en primera persona con elementos de Horror de supervivencia, exploración y sigilo. El título está ambientado en una era post-apocalíptica en Rusia. Nuevamente, el jugador toma el papel de Artyom, un explorador de la facción Sparta, un grupo de soldados de élite entre las diferentes facciones de sobrevivientes del subterráneo moscovita. Con él, el jugador podrá buscar recursos para modificar y mejorar sus armas, teniendo que hacerle frente a bestias mutantes y humanos hostiles en diferentes condiciones climáticas.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/metro_exodus.jpg"
+  }
+
+  {
+    "name": "Half Life Alyx",
+    "description": "Es un videojuego de disparos en primera persona táctico multijugador de 5 contra 5 en el cual hay 3 modos de juego, "Desactivar la bomba", "Capturar el objetivo" y "Protección del rehén". Está desarrollado por la empresa Ubisoft Montreal y distribuido por Ubisoft para las plataformas PlayStation 4, Xbox One, PlayStation 5, Xbox Series X, Xbox Series S y Microsoft Windows. El juego fue anunciado en la conferencia de E3 en junio de 2014​ y, tras ser retrasado, su fecha de lanzamiento se produjo el 1 de diciembre de 2015.",
+    "image_url": "https://raw.githubusercontent.com/JGuilmar/fp/main/tom_clancys.jpg"
+  }
 ]
